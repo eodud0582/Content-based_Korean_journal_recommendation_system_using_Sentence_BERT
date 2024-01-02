@@ -1,0 +1,1 @@
+# Content-based_Korean_journal_recommendation_system_using_Sentence_BERT
