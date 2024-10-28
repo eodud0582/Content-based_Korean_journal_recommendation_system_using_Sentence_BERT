@@ -3,6 +3,7 @@
 ## Publication information
 - 지능정보연구 (Journal of Intelligence and Information Systems, JIIS, pISSN 2288-4866, eISSN 2288-4882)
 - Publishing institution: 한국지능정보시스템학회 (Korea Intelligent Information System Society)
+- Date: 2023.09
 - Related links:
   - https://www.jiisonline.org/index.php?mnu=archive&archiveId=964&PHPSESSID=c87f33175f0c8cafc5ec8f868ac29721
   - https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003000595
