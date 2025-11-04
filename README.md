@@ -8,6 +8,7 @@
   - https://www.jiisonline.org/index.php?mnu=archive&archiveId=964&PHPSESSID=c87f33175f0c8cafc5ec8f868ac29721
   - https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003000595
   - https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11538427
+  - https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO202328958533050
 
 ## Abstract
 
